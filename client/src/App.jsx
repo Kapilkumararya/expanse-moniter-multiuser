@@ -8,7 +8,7 @@ import {
 import './App.css';
 
 // --- CONFIGURATION ---
-const API_URL = "http://localhost:3000/api"; 
+const API_URL = "closed-roxy-syub-ac50d75a.koyeb.app/"; 
 
 // --- COOKIE HELPERS ---
 const setCookie = (name, value, days = 30) => {
